@@ -1,0 +1,12 @@
+/*  Contain font, colors definitions, etc. */
+:root {
+  --black: #141c27;
+  --blue: #172030;
+  --gray: #272829;
+  --green: #3ab499;
+  --pink: #e046d7;
+  --red: #f94409;
+  --white: #ffffff;
+  --radial: radial-gradient(#172030, #292b2e);
+  --unit: 12px;
+}
